@@ -1,0 +1,2 @@
+speechbrain==0.5.15
+moviepy==1.0.3
